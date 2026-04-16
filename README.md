@@ -23,7 +23,7 @@
 
 ## 📊 CONTRIBUTION GRAPH
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AzharZisan&theme=github-compact)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=azharzisan&theme=github-compact)
 
 ---
 
