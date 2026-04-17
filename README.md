@@ -1,3 +1,5 @@
+<img width="1440" height="322" alt="image" src="https://github.com/user-attachments/assets/4195ef01-9f68-48b7-b52c-a0ffc62f19d9" />
+---
 
 📍 **🇧🇩 x 🇮🇪** | 👾 **Runtime Rebel** 
 ---
