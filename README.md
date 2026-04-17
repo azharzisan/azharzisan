@@ -12,7 +12,7 @@
 
 ## 🌐 SOCIALS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-216e39?style=for-the-badge&logo=github)](#)
