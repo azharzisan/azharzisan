@@ -2,5 +2,4 @@
 
 > *Asynchronous Developer*
 
-<img width="auto" height="30px" src="bangladesh.png" />
-<img width="auto" height="30px" src="ireland.png" />
+<img width="auto" height="30px" src="bdie-removebg-preview (1).png" />
