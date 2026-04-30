@@ -1,1 +1,1 @@
-
+<img width="auto" height="50px" src="azhar_zisan_gradient_ascii_fixed.svg" />
