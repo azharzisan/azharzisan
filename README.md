@@ -3,5 +3,4 @@
 > *Asynchronous Developer*
 
 <img width="auto" height="30px" src="bangladesh.png" />
-  X
 <img width="auto" height="30px" src="ireland.png" />
