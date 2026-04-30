@@ -2,4 +2,4 @@
 
 > *Asynchronous Developer*
 
-<img width="auto" height="30px" src="bdie-removebg-preview (1).png" />
+<img width="auto" height="30px" src="bdie.png" />
