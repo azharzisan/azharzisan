@@ -1,5 +1,8 @@
 <img width="auto" height="50px" src="azhar_zisan_gradient_ascii_fixed.svg" />
 
-> *Asynchronous Developer*
+> <p style="font-family: monospace;">Asynchronous Developer<p>
 
-<img width="auto" height="30px" src="bdie.png" />
+<img width="auto" height="20px" src="bdie.png" /> 
+
+---
+
