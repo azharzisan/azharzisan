@@ -1,10 +1,10 @@
-<img width="auto" height="50px" src="azhar_zisan_gradient_ascii_fixed.svg" />
+<img width="auto" height="60px" src="azhar_zisan_gradient_ascii_fixed.svg" />
 
-> <p style="font-family: monospace;">Asynchronous Developer<p>
+> *Asynchronous Developer*
 
-<img width="auto" height="30px" src="bdie.png" /> 
+<img width="auto" height="20px" src="bdie.png" /> 
 
----
+<hr/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=121212)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=121212)
