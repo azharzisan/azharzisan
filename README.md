@@ -39,7 +39,7 @@
 
 - Treating AI as my right hand
 - Repaired by coffee
-- An avgeek (when not coding)
+- An avgeek ✈︎ (when not coding)
 - Loves 3D Modeling - [SolidWorks](https://www.solidworks.com/)
 
 </details>
