@@ -2,7 +2,7 @@
 
 > <p style="font-family: monospace;">Asynchronous Developer<p>
 
-<img width="auto" height="20px" src="bdie.png" /> 
+<img width="auto" height="30px" src="bdie.png" /> 
 
 ---
 
