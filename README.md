@@ -1,6 +1,6 @@
 # <img width="auto" height="60px" src="azhar_zisan_gradient_ascii_fixed.svg" />
 
-#### 👾 Asynchronous Developer | 🫡 Questioning about my life choices
+### 👾 Asynchronous Developer | 🫡 Questioning about my life choices
 
 <img width="auto" height="20px" src="bdie.png" /> 
 
