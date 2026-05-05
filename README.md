@@ -2,15 +2,26 @@
 
 #### 👾 Asynchronous Developer | 🫡 Questioning about my life choices
 
-<img width="auto" height="20px" src="bdie.png" /> 
+<img width="auto" height="15px" src="bdie.png" /> 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=121212)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=121212)
+![redux](https://img.shields.io/badge/redux-764abd?style=for-the-badge&logo=redux&logoColor=764abd&labelColor=121212)
+![vite](https://img.shields.io/badge/vite-BD34FE?style=for-the-badge&logo=vite&logoColor=BD34FE&labelColor=121212)
 ![NodeJS](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&labelColor=121212)
-![Express](https://img.shields.io/badge/Express-F0f0f0?style=for-the-badge&logo=express&logoColor=white&labelColor=121212)
+![NodeJS](https://img.shields.io/badge/next.js-f0f0f0?style=for-the-badge&logo=next.js&logoColor=f0f0f0&labelColor=121212)
+![Express](https://img.shields.io/badge/Express.js-F0f0f0?style=for-the-badge&logo=express&logoColor=white&labelColor=121212)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=121212)
 ![Figma](https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=a259ff&labelColor=121212)
 ![TailwindCSS](https://img.shields.io/badge/tainwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=121212)
+![claude](https://img.shields.io/badge/claude-code-DE7356?style=for-the-badge&logo=claude&logoColor=DE7356&labelColor=121212)
+![vercel](https://img.shields.io/badge/vercel-f0f0f0?style=for-the-badge&logo=vercel&logoColor=f0f0f0&labelColor=121212)
+![vercel](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=121212)
+
+### Loading...
+![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=121212)
+![Python](https://img.shields.io/badge/google-cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=121212)
+
 
 ## Current Projects
 
