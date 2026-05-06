@@ -21,7 +21,6 @@
 ### Loading...
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=121212)
 
-
 ## Current Projects
 
 - Its on ↬ http://localhost:8000 bro.
@@ -38,6 +37,7 @@
 [![github](https://img.shields.io/badge/follow-f0f0f0?style=for-the-badge&logo=github&logoColor=f0f0f0&labelColor=121212)]()
 [![insta](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&labelColor=121212)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=121212)](https://www.linkedin.com/in/azharzisan/)
+[![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=121212)]()
 
 ## Doctrine
 
