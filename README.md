@@ -2,7 +2,7 @@
 
 #### 👾 Asynchronous Developer | 🫡 Questioning about my life choices
 
-<img width="auto" height="15px" src="bdie.png" /> 
+<img width="auto" height="20px" src="banxie.png" /> 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=121212)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=121212)
@@ -20,7 +20,6 @@
 
 ### Loading...
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=121212)
-![Python](https://img.shields.io/badge/google-cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=121212)
 
 
 ## Current Projects
