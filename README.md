@@ -12,13 +12,14 @@
 ![NodeJS](https://img.shields.io/badge/next.js-f0f0f0?style=for-the-badge&logo=next.js&logoColor=f0f0f0&labelColor=121212)
 ![Express](https://img.shields.io/badge/Express.js-F0f0f0?style=for-the-badge&logo=express&logoColor=white&labelColor=121212)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=121212)
-![Figma](https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=a259ff&labelColor=121212)
-![TailwindCSS](https://img.shields.io/badge/tainwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=121212)
+![Redis](https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=D82C20&labelColor=121212)
 ![claude](https://img.shields.io/badge/claude-code-DE7356?style=for-the-badge&logo=claude&logoColor=DE7356&labelColor=121212)
 ![vercel](https://img.shields.io/badge/vercel-f0f0f0?style=for-the-badge&logo=vercel&logoColor=f0f0f0&labelColor=121212)
-![vercel](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=121212)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=121212)
+![TailwindCSS](https://img.shields.io/badge/tainwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=121212)
 
 ### Loading...
+![typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=fff)
 ![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=121212)
 
 ## Current Projects
@@ -38,6 +39,7 @@
 [![insta](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&labelColor=121212)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=121212)](https://www.linkedin.com/in/azharzisan/)
 [![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=121212)]()
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=121212)]()
 
 ## Doctrine
 
