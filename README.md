@@ -20,7 +20,7 @@
 
 ### Loading...
 ![typescript](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=fff)
-![Python](https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57&labelColor=121212)
+![Golang](https://img.shields.io/badge/Golang-4584b6?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=121212)
 
 ## Current Projects
 
