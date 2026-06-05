@@ -43,8 +43,7 @@
 
 ## Doctrine
 
->[!NOTE]
->Learning to solve real problems. Deep in AI and on my way to build the next big thing.
+>[!TIP]Learning to solve real problems. Deep in AI and on my way to build the next big thing.
 
 
 <details>
