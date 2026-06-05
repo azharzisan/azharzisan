@@ -43,6 +43,7 @@
 
 ## Doctrine
 
+>[!NOTE]
 >Learning to solve real problems. Deep in AI and on my way to build the next big thing.
 
 
@@ -52,6 +53,6 @@
 - Treating AI as my right hand
 - Repaired by coffee
 - An avgeek ✈︎ (when not coding)
-- Loves 3D Modeling - [SolidWorks](https://www.solidworks.com/)
+- Loves to build random unused stuffs
 
 </details>
